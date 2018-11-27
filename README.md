@@ -5,11 +5,10 @@ Play the latest Tracks and Albums provided by [Mr-Jatt.com](Mr-Jatt.com)
 
 Use this Android App to play the latest music posted on [Mr-Jatt.com](Mr-Jatt.com) through the app interface with staright access to the music content.
 
-![screenshot](Screen1_edited.png)
-
 <img src="Screen1_edited.png"
      alt="screenshot"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" 
+     width="500" height="600"/>
 
 ## Getting Started
 
