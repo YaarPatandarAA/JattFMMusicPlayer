@@ -28,7 +28,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 Thanks to the following developers without whom certain features where not possible
-* [jsoup](https://jsoup.org/) - Java HTML Parser
+* [jsoup](https://github.com/jhy/jsoup/) - Java HTML Parser - [jhy](https://github.com/jhy)
 * [Picasso](https://github.com/square/picasso) - Image downloading and caching library for Android - [Square](https://github.com/square)
 * [Android Sliding Up Panel](https://github.com/umano/AndroidSlidingUpPanel) - Draggable Sliding Up Panel - [Umano](https://github.com/umano)
 * [FloatingActionButton](https://github.com/futuresimple/android-floating-action-button) - Library for drawing Material Design promoted actions - [Base](https://github.com/futuresimple)
