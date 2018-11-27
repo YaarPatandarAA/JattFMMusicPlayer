@@ -12,7 +12,7 @@ Use this Android App to play the latest music posted on [Mr-Jatt.com](Mr-Jatt.co
 
 ## Getting Started
 
-Clone this repository to work on app in Android Studio or download APK file from releases
+Clone this repository to work on app in Android Studio or download APK file from [releases](https://github.com/YaarPatandarAA/JattFMMusicPlayer/releases)
 
 ### Prerequisites
 
