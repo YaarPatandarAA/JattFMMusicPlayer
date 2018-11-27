@@ -7,6 +7,10 @@ Use this Android App to play the latest music posted on [Mr-Jatt.com](Mr-Jatt.co
 
 ![screenshot](Screen1_edited.png)
 
+<img src="Screen1_edited.png"
+     alt="screenshot"
+     style="float: left; margin-right: 10px;" />
+
 ## Getting Started
 
 Clone this repository to work on app in Android Studio or download APK file from releases
