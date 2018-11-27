@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="General">
+        <menu >
+            <group>
+                <item
+                    android:id="@+id/homePage"
+                    android:checkable="true"
+                    android:icon="@drawable/baseline_home_white_48"
+                    android:title="Home" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Music">
+        <menu >
+            <group>
+                <item
+                    android:id="@+id/singleTracks"
+                    android:checkable="true"
+                    android:icon="@mipmap/punjabi_latestsingles"
+                    android:title="Latest Punjabi Singles" />
+                <item
+                    android:id="@+id/albums"
+                    android:checkable="true"
+                    android:icon="@mipmap/punjabi_latestalbums"
+                    android:title="Latest Punjabi Albums" />
+                <item
+                    android:id="@+id/singleHindiTracks"
+                    android:checkable="true"
+                    android:icon="@mipmap/hindi_latestsingles"
+                    android:title="Latest Hindi Singles" />
+                <item
+                    android:id="@+id/albumsHindi"
+                    android:checkable="true"
+                    android:icon="@mipmap/hindi_latestalbums"
+                    android:title="Latest Hindi Albums" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Top Songs">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/top20"
+                    android:checkable="true"
+                    android:icon="@drawable/baseline_star_rate_white_48"
+                    android:title="Top 20 Songs Overall" />
+                <item
+                    android:id="@+id/top20S"
+                    android:checkable="true"
+                    android:icon="@drawable/baseline_trending_up_white_48"
+                    android:title="Top 20 Latest Punjabi Singles" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Singers">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/topSingers"
+                    android:icon="@drawable/baseline_person_pin_white_48"
+                    android:title="Top Singers" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Information">
+        <menu >
+            <group>
+                <item
+                    android:id="@+id/settingsPage"
+                    android:checkable="true"
+                    android:icon="@drawable/baseline_settings_white_48"
+                    android:title="Settings" />
+                <item
+                    android:id="@+id/aboutPage"
+                    android:checkable="true"
+                    android:icon="@drawable/baseline_info_white_48"
+                    android:title="About" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">JattFM Music Player</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="urlimage">urlImage</string>
+    <string name="tagName">Loading...</string>
+
+    <string name="song_artist">Song - Artist</string>
+    <string name="songart">songArt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="firstFrag">First Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sndFrag">Coming Soon...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="thirdFrag">Nothing Here Yet</string>
+
+    <string name="sngname">sngName</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <string name="versionBeta">Beta v1.6.8.1</string>
+</resources>

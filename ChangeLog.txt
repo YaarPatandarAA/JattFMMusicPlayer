@@ -1,0 +1,32 @@
+Changelog:
+
+	Menus:
+		*Added Home page
+		*All Items are on side menu
+		*Added Single Tracks Punjabi
+		*Added Single Tracks Hindi
+		*Added Albums Punjabi
+		*Added Albums Hindi
+		*Added Top Tracks
+		*Added about page
+
+	Lists:
+		*Major changes to how lists are handled
+		*Implemented Endless scrolling (CAUTION: May come with unforeseen bugs)
+
+	Single Tracks and Albums:
+		*New View for Single Tracks (as a Popup)
+		*Albums open in their own page
+		*All types of tracks are individually playable
+		*Albums are avaiable to be play all or add all to Queue
+
+	Music Player:
+		*Background playback
+		*Notification
+		*Music controls
+		*Queue tracks
+
+	Other:
+		*Design changes
+		*Minor text fixes
+		*Clicking Image will lead to Mr-Jatt.com page for track or Album
