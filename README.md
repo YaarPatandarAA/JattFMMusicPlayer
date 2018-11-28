@@ -1,3 +1,4 @@
+![](/app/src/main/res/mipmap-xhdpi/ic_launcher.png)
 # `DEVELOPMENT IS DISCONTINUED`
 # JattFM Android Music Player
 
